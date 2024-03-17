@@ -1,2 +1,1 @@
-# MTA-STS
-for MTA-STS
+# MTA-STS for GC
