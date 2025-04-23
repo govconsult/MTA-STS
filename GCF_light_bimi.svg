@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 533.75 535.54">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke-width: 44px;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-family: Atures500PERSONALUSEONLY, 'Atures 500 PERSONAL USE ONLY';
+        font-size: 175.22px;
+        stroke-width: 9px;
+      }
+
+      .cls-3 {
+        letter-spacing: .1em;
+      }
+
+      .cls-4 {
+        letter-spacing: .12em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <ellipse class="cls-1" cx="266.88" cy="267.77" rx="244.88" ry="245.77"/>
+      <text class="cls-2" transform="translate(74.88 339.64) scale(1.05 1)"><tspan class="cls-3" x="0" y="0">G</tspan><tspan class="cls-4" x="144.55" y="0">CF</tspan></text>
+    </g>
+  </g>
+</svg>
